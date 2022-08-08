@@ -1,0 +1,70 @@
+\documentclass[12pt]{report}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} % Aligns equations
+\usepackage{graphicx} % Check utility
+\usepackage[right=25mm,top=25mm,bottom=25mm]{geometry} % Sets the pages to the institution-specified parameters
+\usepackage[doublespacing]{setspace} % Allows double-spacing throughout the document, except in footnotes
+\usepackage{soul} % Text highlighting
+\usepackage{setspace} % Single-spaced quotes
+\usepackage{hyperref}
+\usepackage{booktabs, multirow} % for borders and merged ranges
+\usepackage{soul}% for underlines
+\usepackage[table]{xcolor} % for cell colors
+\usepackage{changepage,threeparttable} % for wide tables
+
+% Paths
+\graphicspath{{images/}}
+
+% Biographical
+\title{Moral Self-Convictions: no-contest pleas and Canadian criminal law}
+\author{Daniel Nathan Booy}
+\date{June 11, 2022}
+
+\begin{document}
+\maketitle
+\include{abstract}
+
+% Roman numerals for the ToC
+\pagenumbering{roman}
+\tableofcontents
+
+% Arabic numerals for the remainder
+\pagebreak
+\pagenumbering{arabic}
+
+% Breaking the chapters up into individual files this small allowed each to be run through Grammarly much more easily than it would have been otherwise.
+
+% Chapter 1: Introduction
+\include{chapters/Chapter 1/§1: Introduction}
+
+% Chapter 2: What are no-contest pleas?
+\include{chapters/Chapter 2/§2: What are no-contest pleas?}
+\include{chapters/Chapter 2/§2.1: Types of no-contest pleas}
+\include{chapters/Chapter 2/§2.2: No-contest pleas and plea bargaining}
+\include{chapters/Chapter 2/§2.3: Guilty: the inculpatory plea}
+\include{chapters/Chapter 2/§2.4: Nolo contendere: the non-culpatory plea}
+\include{chapters/Chapter 2/§2.5: Best-interest pleas: the exculpatory plea}
+\include{chapters/Chapter 2/§2.6: Summary}
+
+% Chapter 3: Are no-contest pleas compatible with Canadian criminal law?
+\include{chapters/Chapter 3/§3: Are no-contest pleas compatible with Canadian criminal law?.tex}
+\include{chapters/Chapter 3/§3.1: Statutory framework.tex}
+\include{chapters/Chapter 3/§3.2: Compatibility with guilty pleas.tex}
+\include{chapters/Chapter 3/§3.3: Compatibility with nolo contendere pleas.tex}
+\include{chapters/Chapter 3/§3.4: Compatibility with best-interest pleas.tex}
+\include{chapters/Chapter 3/§3.5: Summary.tex}
+
+% Chapter 4: Should no-contest pleas be further incorporated into Canadian criminal law?
+\include{chapters/Chapter 4/§4: Should no-contest pleas be further incorporated into Canadian criminal law?.tex}
+\include{chapters/Chapter 4/§4.1: The cognitive dissonance of no-contest pleas.tex}
+\include{chapters/Chapter 4/§4.2: Plea bargaining and the three categories of moral concern.tex}
+\include{chapters/Chapter 4/§4.3: The perceived need for substantive law trade-offs.tex}
+\include{chapters/Chapter 4/§4.4: The advantages of incresed access to no-contest pleas.tex}
+\include{chapters/Chapter 4/§4.5: The benefits of regulation.tex}
+
+% Chapter 5: Conclusion
+\include{chapters/Chapter 5/§5: Conclusion.tex}
+
+\end{document}
