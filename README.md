@@ -1,6 +1,6 @@
 # LLM-Thesis
 
-Thesis written to satisfy the requirements of my LLM program and degree. Comments, questions, and suggestions are all welcome!
+Thesis written to satisfy the requirements of my LLM degree at Robson Hall Faculty of Law, University of Manitoba. Comments, questions, and suggestions are all welcome!
 
 ## Abstract
 
