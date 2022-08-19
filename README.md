@@ -13,12 +13,13 @@ Although statutory language formally forbids equivocal no-contest pleas in Canad
 ## Incomplete
 * §2.1.4
 * §2.3.3
-* §§ 2.5.1 - 2.6
+* §§ 2.5.x - 2.6
 * §3.3.6
 * §3.4
 * §3.5
 * §4.1.3
-* §§ 4.2 - 5
+* §4.3
+* §§ 4.4.6 - 5
 
 ## Refactor
 * 2.2.x: Merge into 4.2?
