@@ -11,13 +11,13 @@ Although statutory language formally forbids equivocal no-contest pleas in Canad
 # TODO
 
 ## Incomplete
-* §2.6 (conclusion)
+* §2.6 (chapter summary)
 * §3.4 (substantive - major)
-* §3.5 (conclusion)
+* §3.5 (chapter summary)
 * §4.3 (substantive - major)
 * §4.4.5 (substantive - minor)
 * §4.4.6 (substantive - minor)
-* §5 (conclusion)
+* §5 (thesis conclusion)
 
 ## Refactor
 * 2.2.x: Merge into 4.2?
