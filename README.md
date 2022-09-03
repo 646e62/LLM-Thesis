@@ -4,20 +4,14 @@ A thesis (eventually) satisfying the requirements of my LLM degree at Robson Hal
 
 ## Abstract
 
-A no-contest plea is a means by which an offender agrees to allow themselves to be convicted, rather than requiring the state to prove its case. No contest pleas may be equivocal or unequivocal. Unequivocal no-contest pleas are generally limited to guilty pleas. When a defendant unequivocally pleads guilty, they admit their actual culpability in the offence pleaded to and accept the consequences of doing so. On the other hand, Equivocal no-contest pleas include best-interest pleas and \textit{nolo contendere} pleas, both formal and informal. When a defendant equivocally pleads no-contest, they agree to self-conviction without fully taking responsibility for the offence.
+A no-contest plea allows criminal defendants to self-convict without requiring the state to prove its case against them. No-contest pleas may be inculpatory, exculpatory, or non-inculpatory. Guilty pleas are inculpatory no-contest pleas. When a defendant pleads guilty sincerely, they formally take responsibility for the offence and accept the consequences of doing so. Exculpatory and non-inculpatory no-contest pleas include best-interest pleas and *nolo contendere* pleas, respectively. When a defendant enters one of these pleas, they agree to self-convict without formally taking responsibility for the offence.
    
-Although statutory language formally forbids equivocal no-contest pleas in Canada, they may still be entered informally and surreptitiously. In this thesis, I argue that the legal and ethical objections to these pleas and plea bargaining in Canada are largely misplaced. Equivocal no-contest pleas open new avenues of plea bargaining for defendants and prosecutors to explore, creating new opportunities for certainty, factual accuracy, agency, and mutual advantage in otherwise highly adversarial proceedings. I conclude by recommending ways in which equivocal no-contest pleas could be adapted and used in the Canadian criminal context.
+    In this thesis, I argue that the legal and ethical objections to these pleas and plea bargaining generally in Canada are largely misplaced. *Nolo contendere* pleas open new avenues of plea bargaining for defendants and prosecutors to explore, creating new opportunities for certainty, factual accuracy, agency, and mutual advantage in otherwise highly adversarial proceedings. Although statutory language formally forbids *nolo contendere* pleas in Canada, defendants may still enter them informally and surreptitiously. I conclude by arguing that these pleas be formalized and suggesting ways to implement them.
 
 # TODO
 
 ## Incomplete
-* §2.6 (chapter summary)
-* §3.4 (substantive - major)
-* §3.5 (chapter summary)
-* §4.2.2 (substantive - minor)
-* §4.2.3 (substantive - minor)
-* §4.3 (substantive - major)
-* §5 (thesis conclusion)
+* §2.6 
 
 ## Refactor
 * 2.2.x: Merge into 4.2?
