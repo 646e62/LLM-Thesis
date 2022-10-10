@@ -1,0 +1,3 @@
+# Word list
+* Autoptic
+* Ratiocinative
