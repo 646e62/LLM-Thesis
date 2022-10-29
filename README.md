@@ -9,4 +9,4 @@ A no-contest plea allows criminal defendants to self-convict without requiring t
 In this thesis, I argue that the legal and ethical objections to these pleas and plea bargaining generally in Canada are largely misplaced. *Nolo contendere* pleas open new avenues of plea bargaining for defendants and prosecutors to explore, creating new opportunities for certainty, factual accuracy, agency, and mutual advantage in otherwise highly adversarial proceedings. Although statutory language formally forbids *nolo contendere* pleas in Canada, defendants may still enter them informally and surreptitiously. I conclude by arguing that these pleas be formalized and suggesting ways to implement them.
 
 # TODO
-* Submit first draft
+* Await comments
